@@ -1,0 +1,110 @@
+body
+{
+    background: linear-gradient(to right, #d22f2f, #3535b7);
+    height: 100%;
+}
+ 
+.box
+{
+    
+    background-color:#3d4543;
+    height:365px;
+    width:250px;
+    border-radius:10px;
+    padding: 5px;
+    position:relative;
+    top:80px;
+    left:40%;
+}
+.display
+{
+    background-color:#222;
+    width:220px;
+    position:relative;
+    left:15px;
+    top:20px;
+    height:60px;
+ 
+    
+}
+.display input
+{
+    position:relative;
+    left:2px;
+    top:2px;
+    height:55px;
+    color:black;
+    background-color:#bccd95;
+    font-size:21px;
+    text-align:right;
+}
+.keys
+{
+    position:relative;
+    right: 2.5px;
+    top:40px;
+ 
+  
+}
+.button
+{
+    text-transform: uppercase;
+    font: bold;
+    width:40px;
+    height:30px;
+    border:none;
+    border-radius:8px;
+    margin-left:17px;
+    
+    cursor:pointer;
+    border-top:2px solid transparent;
+}
+.button.gray
+{
+    color:rgb(255, 255, 255);
+    background-color:#6f6f6f;
+    border-bottom:black 2px solid;
+    border-top:2px #6f6f6f solid;
+}
+.button.pink
+{
+    color:black;
+    background-color:#ff4561;
+    border-bottom:black 2px solid;
+}
+.button.red
+{
+    color:rgb(255, 255, 255);
+    background-color:303030;
+    border-bottom:black 2px solid;
+}
+
+ .button.asd
+  {
+    color:rgb(255, 255, 255);
+    background-color:#6f6f6f;
+    border-bottom:black 2px solid;
+    border-top:2px #6f6f6f solid;
+
+ }
+
+ .button.asd
+  {
+    position: relative;
+    left: 183.2px;
+    top: -46px;
+    height: 75px;
+    color:rgb(255, 255, 255);
+    background-color:#6f6f6f;
+    border-bottom:black 2px solid;
+    border-top:2px #6f6f6f solid;
+
+ }
+
+ .pozitie0 
+ {
+    position: relative;
+    top: -95px;
+
+
+ }
